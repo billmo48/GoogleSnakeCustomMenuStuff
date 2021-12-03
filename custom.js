@@ -10,42 +10,42 @@ window.snake.more_menu = function(e) {
 
   // tiny
   img = new Image;
-  img.src = 'https://i.postimg.cc/dtr6JBNh/tiny-1.png';
+  img.src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD2tEwKG2qlJ8YKBy1tn6lPGPaxbzGJf5xsg&usqp=CAU';
   img.width = 47;
   img.height = 47;
   document.querySelector('#size').appendChild(img);
 
   // super big
   img = new Image;
-  img.src = 'https://i.postimg.cc/mg4wkHK8/superbig-1.png';
+  img.src = 'https://static.wikia.nocookie.net/creepypasta/images/9/96/The_smiling_man.jpg/revision/latest/scale-to-width-down/2000?cb=20121226210053'
   img.width = 47;
   img.height = 47;
   document.querySelector('#size').appendChild(img);
 
   // ultra big
   img = new Image;
-  img.src = 'https://i.postimg.cc/1RLMxTBx/ultrabig-1.png';
+  img.src = 'https://static.wikia.nocookie.net/creepypasta/images/9/96/The_smiling_man.jpg/revision/latest/scale-to-width-down/2000?cb=20121226210053';
   img.width = 47;
   img.height = 47;
   document.querySelector('#size').appendChild(img);
 
   // humongous
   img = new Image;
-  img.src = 'https://i.postimg.cc/vmHtLdYn/humoungus-1.png';
+  img.src = 'https://static.wikia.nocookie.net/creepypasta/images/9/96/The_smiling_man.jpg/revision/latest/scale-to-width-down/2000?cb=20121226210053';
   img.width = 47;
   img.height = 47;
   document.querySelector('#size').appendChild(img);
 
   // too big
   img = new Image;
-  img.src = 'https://i.postimg.cc/8CKBZnc0/toobigg-1.png';
+  img.src = 'https://static.wikia.nocookie.net/creepypasta/images/9/96/The_smiling_man.jpg/revision/latest/scale-to-width-down/2000?cb=20121226210053';
   img.width = 47;
   img.height = 47;
   document.querySelector('#size').appendChild(img);
 
   // too big
   img = new Image;
-  img.src = 'https://i.postimg.cc/Fsdz2CRL/purgatory.png';
+  img.src = 'https://static.wikia.nocookie.net/creepypasta/images/9/96/The_smiling_man.jpg/revision/latest/scale-to-width-down/2000?cb=20121226210053';
   img.width = 47;
   img.height = 47;
   document.querySelector('#size').appendChild(img);
